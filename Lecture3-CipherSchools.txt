@@ -1,0 +1,5 @@
+#Lecture 3
+In this lecture, I learned the following points:
+💻 Variables: Hold mutable data, changing during program execution.
+💡 Constants: Store immutable values, remaining unchanged.
+🔢 Data types: Define the nature of stored data, facilitating operations.
