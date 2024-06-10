@@ -14,8 +14,6 @@ int main() {
   //Addng another value
   d=a+b+c;
   //Printing them out
-  cout<<c;
-  count<<d;
-  
-  
+  cout<<c<<endl<<d;
+  return 0;
 }
