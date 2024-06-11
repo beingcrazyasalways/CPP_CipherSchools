@@ -1,0 +1,21 @@
+In this lecture, I learned the following things:
+
+What are loops?
+🔄 Loops automate repetitive tasks by executing a block of code repeatedly until a condition is met.
+
+Importance of loops:
+⏳ They save time and effort by automating tasks.
+📊 They efficiently process data collections.
+🧩 They enhance code readability and maintainability.
+
+Types of loops:
+🔄 For loop: Executes a block of code a fixed number of times.
+🔄 While loop: Executes a block of code as long as a condition is true.
+🔄 Do-while loop: Guarantees at least one execution before checking the condition.
+
+Implementation ways of loops:
+🔄 For loop: Used for a known number of iterations.
+🔄 While loop: Used when the number of iterations is uncertain.
+
+Break statement:
+⛔ Terminates a loop prematurely when a condition is met.
