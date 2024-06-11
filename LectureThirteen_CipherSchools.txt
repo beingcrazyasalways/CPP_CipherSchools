@@ -1,0 +1,19 @@
+In this lecture, I learnes the following points :
+
+What are functions?
+🎯 Functions are blocks of code that perform a specific task. They encapsulate a set of instructions that can be reused throughout a program.
+
+Why are functions so important?
+💡 Functions promote code reusability, reducing redundancy and promoting modular design.
+🚀 They enhance readability by breaking down complex tasks into smaller, more manageable chunks.
+💼 Functions facilitate teamwork by allowing different parts of a program to be developed and tested independently.
+🌟 Divide and Conquer: Functions implement the "divide and conquer" strategy by breaking down complex problems into smaller, more manageable subproblems, thus simplifying the development and understanding of large-scale systems.
+
+How to dealwith functions in C++?
+🛠 Function Declaration: Declare the function prototype before its first use in the code.
+🚧 Function Definition: Define the function body, specifying its name, return type, parameters, and implementation.
+🔄 Function Call: Invoke the function by using its name followed by parentheses containing any required arguments.
+📦 Function Parameters: Pass data to functions by specifying parameters in the function declaration and using them in the function body.
+🔄 Return Statement: Use the return statement to return a value from a function to its caller, if applicable.
+⚙ Function Overloading: Define multiple functions with the same name but different parameter lists to provide flexibility and enhance code readability.
+🌟 Divide and Conquer: Functions can implement divide and conquer algorithms by recursively breaking down a
