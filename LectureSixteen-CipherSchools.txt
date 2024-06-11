@@ -1,0 +1,16 @@
+In this lecture, I learned the following points:
+
+Formal Parameter:
+🎩 Placeholder variables in a function definition.
+📝 Specify the expected input for the function.
+🌟 Example: int add(int x, int y), where x and y are formal parameters.
+
+Actual Parameter:
+🎁 Values passed into a function during a function call.
+📦 Provide the actual data for the function to work with.
+🌟 Example: In add(5, 3), 5 and 3 are actual parameters.
+
+Function Prototype in C++:
+📋 Declares the function before its use.
+🛠️ Specifies the function's name, return type, and parameters.
+🌟 Helps the compiler understand the function's signature.
