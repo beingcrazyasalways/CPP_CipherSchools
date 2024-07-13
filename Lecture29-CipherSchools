@@ -1,0 +1,17 @@
+Class client{
+  Private;
+  String name;
+  int credit_number;
+  int cvv
+  string password;
+};
+int main(){
+  Bank_client a,b,c;
+  a.name="Rohit"
+  a.password="Enjoying c++";
+  a.cvv=788;
+  a.credit_number=34723;
+
+  cout<<"The password or rohit is<<a.password;
+  return 0;
+}
